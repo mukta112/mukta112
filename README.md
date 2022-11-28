@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukta Raj</h1>
 <h3 align="center">A passionate JAVA backend developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukta112&label=Profile%20views&color=0e75b6&style=flat" alt="mukta112" /> </p>
 
