@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mukta Raj</h1>
-<h3 align="center">A passionate JAVA backend developer from India.</h3>
+<h1 align="center">
+  <abc>
+    <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+    <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7ED1B&width=335&lines=I'm+Mukta+Raj" alt="Typing SVG" />
+   <br>A passionate JAVA backend developer :computer: from India<br>
+      <img >
+   </abc>
+</h1>
+
 
 
 
